@@ -1,0 +1,4 @@
+.dll
+.lock
+db.lock
+/LTI.IMF.Web/node_modules

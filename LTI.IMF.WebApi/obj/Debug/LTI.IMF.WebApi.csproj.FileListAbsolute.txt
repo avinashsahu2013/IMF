@@ -1,0 +1,392 @@
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xmlworker.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Data.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Objects.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Pattern.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Repositories.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Service.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Cors.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Unity.WebApi.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LinqKit.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Data.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Data.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Objects.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Pattern.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Repositories.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Repositories.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Service.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.Service.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csprojAssemblyReference.cache
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CopyComplete
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\csc.exe
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\vbc.exe
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xmlworker.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Cors.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Unity.WebApi.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\WebActivatorEx.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LinqKit.dll
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll.config
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.xml
+C:\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+C:\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CopyComplete
+C:\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.dll
+C:\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\csc.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\vbc.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xmlworker.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Cors.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Unity.WebApi.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\WebActivatorEx.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LinqKit.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\csc.exe
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\vbc.exe
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xmlworker.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Cors.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Unity.WebApi.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\WebActivatorEx.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\LinqKit.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Api.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Business.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\itextsharp.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\log4net.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CopyComplete
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.dll
+D:\Amar\LTI.IMF\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\csc.exe
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\vbc.exe
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\LTI.IMF.WebApi.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\EntityFramework.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Api.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Business.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\itextsharp.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\itextsharp.xmlworker.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\log4net.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ninject.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Cors.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Unity.WebApi.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\WebActivatorEx.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\LinqKit.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Data.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Data.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Api.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Business.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Repository.Pattern.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Service.Pattern.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Service.Pattern.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\EntityFramework.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\itextsharp.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\log4net.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Newtonsoft.Json.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ninject.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\Ninject.Web.Common.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.Cors.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\bin\Debug\System.Web.Http.WebHost.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.WebApi\obj\Debug\LTI.IMF.WebApi.pdb

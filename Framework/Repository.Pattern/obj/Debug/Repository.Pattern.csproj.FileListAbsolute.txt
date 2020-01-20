@@ -1,0 +1,34 @@
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache
+C:\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+C:\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+C:\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache
+C:\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+C:\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\Framework\Repository.Pattern\obj\Debug\Repository.Pattern.pdb

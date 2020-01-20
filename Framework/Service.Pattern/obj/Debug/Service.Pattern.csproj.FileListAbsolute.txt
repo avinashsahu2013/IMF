@@ -1,0 +1,59 @@
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.pdb
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\System.Net.Http.dll
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.dll
+D:\Swapnil\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\System.Net.Http.dll
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+C:\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+C:\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+C:\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\System.Net.Http.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.pdb
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Service.Pattern.pdb
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\System.Net.Http.dll
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\Amar\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+D:\Amar\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.dll
+D:\Amar\LTI.IMF\Framework\Service.Pattern\obj\Debug\Service.Pattern.pdb
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Service.Pattern.dll
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Service.Pattern.pdb
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\System.Net.Http.dll
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\bin\Debug\Repository.Pattern.dll.config
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\obj\Debug\Service.Pattern.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\obj\Debug\Service.Pattern.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\obj\Debug\Service.Pattern.dll
+D:\AREAER\P1296-AREAER\Framework\Service.Pattern\obj\Debug\Service.Pattern.pdb

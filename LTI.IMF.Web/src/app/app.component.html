@@ -1,0 +1,101 @@
+<!-- ============================================================== -->
+<!-- Main wrapper - style you can find in pages.scss -->
+<!-- ============================================================== -->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-1 col-sm-12 sidebar d-none d-md-block">
+            <ul>
+                <li>
+                    <a [routerLink]="['']"><img src="assets/img/International_Monetary_Fund_logo.png" alt="Home"></a> 
+                    <a [routerLink]="['']" class="menu_text">IMF</a>
+                </li>
+                <li>
+                    <img class="menu_icon" src="assets/img/about-us.png" alt="Abuot us">
+                    <a [routerLink]="['']" class="menu_text">About us</a>
+                </li>
+                <li>
+                    <img class="menu_icon" src="assets/img/areaer_icon.png" alt="AREAER">
+                    <!-- <div class="menu_text">AREAER</div> -->
+                    <a [routerLink]="['fullReport']" class="menu_text">AREAER </a>
+                </li>
+                <li>
+                    <img class="menu_icon" src="assets/img/Fari_icon.png" alt="FARI">
+                    <!-- <div class="menu_text">FARI</div> -->
+                    <a [routerLink]="['']" class="menu_text">FARI</a>
+                </li>
+                <li>
+                    <img class="menu_icon"src="assets/img/eDMS_icon.png" alt="eDMS">
+                    <div class="menu_text">eDMS</div>
+                </li>
+            </ul>
+        </div>
+        <div class="d-block d-md-none w-100 mb-0">
+            <div class="header_wrapper d-flex justify-content-end">
+                <!-- <div class="logo_small">
+                    <a [routerLink]="['']" class="d-block"><img src="assets/img/International_Monetary_Fund_logo.png" class="sm_logo" alt="Home"></a> 
+                    <a [routerLink]="['']" class="menu_text text-center d-block">IMF</a>
+                </div> -->
+                <div class="menu_small" (click)=showSidebar()>
+                    <i class="fa fa-bars" aria-hidden="true"></i>
+                </div>  
+                <div class="sidebar sidebar_small" *ngIf="isSidebar">
+                    <ul>
+                        <li>
+                            <a [routerLink]="['']"><img src="assets/img/International_Monetary_Fund_logo.png" alt="Home"></a> 
+                            <a [routerLink]="['']" class="menu_text">IMF</a>
+                        </li>
+                        <li>
+                            <img class="menu_icon" src="assets/img/about-us.png" alt="Abuot us">
+                            <a [routerLink]="['']" class="menu_text">About us</a>
+                        </li>
+                        <li>
+                            <img class="menu_icon" src="assets/img/areaer_icon.png" alt="AREAER">
+                            <!-- <div class="menu_text">AREAER</div> -->
+                            <a [routerLink]="['fullReport']" class="menu_text">AREAER </a>
+                        </li>
+                        <li>
+                            <img class="menu_icon" src="assets/img/Fari_icon.png" alt="FARI">
+                            <!-- <div class="menu_text">FARI</div> -->
+                            <a [routerLink]="['']" class="menu_text">FARI</a>
+                        </li>
+                        <li>
+                            <img class="menu_icon"src="assets/img/eDMS_icon.png" alt="eDMS">
+                            <div class="menu_text">eDMS</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-md-11 col-sm-12 main_content">
+            <div class="col-md-12">
+                <div class="top-header">
+                    <div class="sec_navigation">
+                        <a [routerLink]="['']">Home </a> 
+                        <a href="">Admin</a>
+                    </div>
+                    <div class="profile">
+                        <div class="user_img"></div>
+                        <span class="profile_name">John Doe</span>
+                        <div class="dropdown dropleft">
+                            <a class="btn dropdown-toggle" href="#" role="button" id="user_profile" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="user_profile">
+                            <a class="dropdown-item" href="#">Item 1</a>
+                            <a class="dropdown-item" href="#">Item 2</a>
+                            <a class="dropdown-item" href="#">Item 3</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<router-outlet><app-spinner></app-spinner></router-outlet>
+        </div>
+    </div>  
+</div>
+
+
+<block-ui message="Loading...">
+    <!-- Your markup here -->
+</block-ui>

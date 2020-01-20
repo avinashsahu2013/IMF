@@ -1,0 +1,23 @@
+C:\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Entities\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\obj\Debug\LTI.IMF.Entities.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\obj\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Entities\obj\Debug\Ipm.Entities.pdb

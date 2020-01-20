@@ -1,0 +1,329 @@
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LinqKit.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csprojAssemblyReference.cache
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CopyComplete
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\csc.exe
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\vbc.exe
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LinqKit.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csprojAssemblyReference.cache
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CopyComplete
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\csc.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\vbc.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LinqKit.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LinqKit.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CopyComplete
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LTI.IMF.WebApi.Tests.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ValueTuple.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\netstandard.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.AppContext.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Collections.Concurrent.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Collections.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Collections.NonGeneric.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Collections.Specialized.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ComponentModel.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ComponentModel.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Console.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Data.Common.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.Contracts.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.Debug.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.Process.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.Tools.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Diagnostics.Tracing.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Drawing.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Dynamic.Runtime.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Globalization.Calendars.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Globalization.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Globalization.Extensions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.Compression.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.FileSystem.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.IsolatedStorage.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.Pipes.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Linq.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Linq.Expressions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Linq.Parallel.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Linq.Queryable.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.NameResolution.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.NetworkInformation.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Ping.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Requests.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Security.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Sockets.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.WebSockets.Client.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.WebSockets.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.ObjectModel.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Reflection.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Reflection.Extensions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Reflection.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Resources.Reader.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Resources.ResourceManager.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Resources.Writer.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Extensions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Handles.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.InteropServices.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Numerics.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Claims.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.Principal.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Security.SecureString.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Text.Encoding.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Text.RegularExpressions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Overlapped.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Tasks.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Thread.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.ThreadPool.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Timer.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.ReaderWriter.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.XDocument.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.XmlDocument.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.XmlSerializer.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.XPath.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\AreaerWebApi.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Castle.Core.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Api.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Business.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Moq.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Optimization.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Mvc.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Data.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Unity.WebApi.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Unity.Mvc5.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\LinqKit.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Razor.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Cors.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\DatabaseFramework.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\AreaerWebApi.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\AreaerWebApi.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Repository.Pattern.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Service.Pattern.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Api.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Business.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Castle.Core.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Moq.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Optimization.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Mvc.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Data.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Ipm.Data.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.Razor.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.WebApi.Tests\obj\Debug\LTI.IMF.WebApi.Tests.pdb

@@ -1,0 +1,6 @@
+D:\Amar\LTI.IMF\LTI.IMF.Entities\bin\Release\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Entities\bin\Release\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Release\LTI.IMF.Entities.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Release\LTI.IMF.Entities.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Release\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Entities\obj\Release\Ipm.Entities.pdb

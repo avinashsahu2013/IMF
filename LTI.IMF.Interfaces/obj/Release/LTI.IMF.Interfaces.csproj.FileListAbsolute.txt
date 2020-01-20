@@ -1,0 +1,10 @@
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\bin\Release\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\bin\Release\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\bin\Release\DatabaseFramework.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\bin\Release\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\bin\Release\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\obj\Release\LTI.IMF.Interfaces.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\obj\Release\LTI.IMF.Interfaces.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\obj\Release\LTI.IMF.Interfaces.csproj.CopyComplete
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\obj\Release\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.Interfaces\obj\Release\Ipm.Interfaces.pdb

@@ -1,0 +1,11 @@
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Business.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Business.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Release\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Release\LTI.IMF.Business.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Release\LTI.IMF.Business.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Release\LTI.IMF.Business.csproj.CopyComplete
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Release\Ipm.Business.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Release\Ipm.Business.pdb

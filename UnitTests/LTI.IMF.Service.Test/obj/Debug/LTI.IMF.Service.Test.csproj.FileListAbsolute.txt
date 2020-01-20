@@ -1,0 +1,135 @@
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LinqKit.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll.config
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csprojAssemblyReference.cache
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CopyComplete
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.dll
+D:\Swapnil\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LinqKit.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll.config
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csprojAssemblyReference.cache
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CopyComplete
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.dll
+C:\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LinqKit.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\LinqKit.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll.config
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CopyComplete
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.dll
+D:\Amar\LTI.IMF\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\LTI.IMF.Service.Test.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Business.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\LinqKit.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Business.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Repository.Pattern.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Service.Pattern.dll.config
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.dll
+D:\AREAER\P1296-AREAER\UnitTests\LTI.IMF.Service.Test\obj\Debug\LTI.IMF.Service.Test.pdb

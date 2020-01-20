@@ -1,0 +1,44 @@
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.pdb
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.pdb
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CopyComplete
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.dll
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CopyComplete
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.dll
+D:\Amar\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Business.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Business.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\obj\Debug\LTI.IMF.Business.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\obj\Debug\Ipm.Business.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Business\obj\Debug\Ipm.Business.pdb

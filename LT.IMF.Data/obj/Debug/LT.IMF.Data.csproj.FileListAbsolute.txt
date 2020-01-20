@@ -1,0 +1,72 @@
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll.config
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.pdb
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.Interfaces.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.dll
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.pdb
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.xml
+C:\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csprojAssemblyReference.cache
+C:\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CopyComplete
+C:\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.dll
+C:\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.pdb
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll.config
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Data.pdb
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.xml
+D:\Amar\LTI.IMF\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amar\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CopyComplete
+D:\Amar\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.dll
+D:\Amar\LTI.IMF\LT.IMF.Data\obj\Debug\Ipm.Data.pdb
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Data.dll.config
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Data.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Data.pdb
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\DatabaseFramework.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\EntityFramework.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\EntityFramework.xml
+D:\AREAER\P1296-AREAER\LT.IMF.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\AREAER\P1296-AREAER\LT.IMF.Data\obj\Debug\LT.IMF.Data.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LT.IMF.Data\obj\Debug\LT.IMF.Data.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\LT.IMF.Data\obj\Debug\Ipm.Data.dll
+D:\AREAER\P1296-AREAER\LT.IMF.Data\obj\Debug\Ipm.Data.pdb

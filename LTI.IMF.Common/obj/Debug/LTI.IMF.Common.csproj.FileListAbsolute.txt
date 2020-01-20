@@ -1,0 +1,45 @@
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Objects.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.Ef6.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Newtonsoft.Json.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\EntityFramework.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\LinqKit.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Objects.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.Ef6.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.Ef6.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Newtonsoft.Json.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\EntityFramework.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Repository.Pattern.dll.config
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csprojAssemblyReference.cache
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csproj.CopyComplete
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.dll
+D:\Swapnil\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.pdb
+C:\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.dll
+C:\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.pdb
+C:\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.dll
+C:\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.dll
+D:\Amar\LTI.IMF\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.pdb
+D:\Amar\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.dll
+D:\Amar\LTI.IMF\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\bin\Debug\LTI.IMF.Common.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.Common\obj\Debug\LTI.IMF.Common.pdb

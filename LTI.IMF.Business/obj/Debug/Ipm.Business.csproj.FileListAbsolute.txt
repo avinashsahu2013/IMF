@@ -1,0 +1,11 @@
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Business.pdb
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LTI.IMF.Business\bin\Debug\Ipm.Interfaces.pdb
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.csproj.CopyComplete
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.dll
+C:\LTI.IMF\LTI.IMF.Business\obj\Debug\Ipm.Business.pdb

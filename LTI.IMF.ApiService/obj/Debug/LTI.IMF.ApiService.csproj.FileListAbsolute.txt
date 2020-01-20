@@ -1,0 +1,88 @@
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.pdb
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.dll
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.pdb
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll.config
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.pdb
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.pdb
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.xml
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.xml
+C:\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.xml
+C:\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csprojAssemblyReference.cache
+C:\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CoreCompileInputs.cache
+C:\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CopyComplete
+C:\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.dll
+C:\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll.config
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.pdb
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.xml
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csprojAssemblyReference.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CoreCompileInputs.cache
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CopyComplete
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.dll
+D:\LTI IMF 31Dec2019\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.pdb
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Api.pdb
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.pdb
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll.config
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.pdb
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.pdb
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.xml
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.xml
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csprojAssemblyReference.cache
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CoreCompileInputs.cache
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CopyComplete
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.dll
+D:\Amar\LTI.IMF\LTI.IMF.ApiService\obj\Debug\Ipm.Api.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Api.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Api.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.Interfaces.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\EntityFramework.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\DatabaseFramework.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Data.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Data.dll.config
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Entities.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Ipm.Interfaces.pdb
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\EntityFramework.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\EntityFramework.SqlServer.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\bin\Debug\Newtonsoft.Json.xml
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csprojAssemblyReference.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CoreCompileInputs.cache
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\obj\Debug\LTI.IMF.ApiService.csproj.CopyComplete
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\obj\Debug\Ipm.Api.dll
+D:\AREAER\P1296-AREAER\LTI.IMF.ApiService\obj\Debug\Ipm.Api.pdb

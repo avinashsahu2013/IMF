@@ -1,0 +1,195 @@
+<div class="container reports_container">
+  <div class="row filter_panel d-md-flex flex-md-row my-3">
+    <div class="col filter_item">
+      <i class="fa fa-th-large menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Categories</mat-label>
+        <mat-select multiple [(ngModel)]="selectedCategories">
+          <mat-option *ngFor="let category of categoryList" [value]="category.categoryCode">{{category.categoryName}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="col filter_item">
+      <i class="fa fa-globe menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Country</mat-label>
+        <mat-select multiple [(ngModel)]="selectedCountries">
+          <mat-option *ngFor="let country of countryList" [value]="country.countryCode">{{country.countryName}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+    <div class="col filter_item">
+      <i class="fa fa-calendar-o menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Year</mat-label>
+        <mat-select multiple [(ngModel)]="selectedYears">
+          <mat-option *ngFor="let year of yearList" [value]="year.yearName">{{year.yearName}}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+    <div class="col filter_item">
+      <i class="fa fa-file-text-o menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Report Type</mat-label>
+        <mat-select [(ngModel)]="reportType">
+          <mat-option value="fullReport">Full Report</mat-option>
+          <mat-option value="yesIndexReport">Yes Index Report</mat-option>
+          <mat-option value="changeIndexReport">Change Index Report</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+    <a (click)="getReport()">
+      <div class="col filter_item">
+        <div class="btn app_btn filter_btn">
+          <i class="fa fa-filter"></i>
+          <span>Filter</span>
+        </div>
+        <mat-slide-toggle (change)="setValue($event)">
+          <!-- <i class="material-icons toggle_btn">show_chart</i> -->
+          <i class="toggle_btn">show_chart</i>
+        </mat-slide-toggle>
+        <!-- <div class="btn toggle_btn">
+          <i class="fa fa-exchange" aria-hidden="true"></i>
+        </div> -->
+      </div>
+    </a>
+  </div>
+  <div class="row">
+    <div class="col-md-12">
+      <div [hidden]="!isFullReport">
+        <table mat-table [dataSource]="dataSourcePeriodicElement" matSort class="mat-elevation-z8">
+          <!-- Position Column -->
+          <ng-container matColumnDef="countryCode">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Code </th>
+            <td mat-cell *matCellDef="let element"> {{element.countryCode}} </td>
+          </ng-container>
+          <!-- Name Column -->
+          <ng-container matColumnDef="countryName">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Name </th>
+            <td mat-cell *matCellDef="let element"> {{element.countryName}} </td>
+          </ng-container>
+          <!-- Weight Column -->
+          <ng-container matColumnDef="categoryName">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Category Name </th>
+            <td mat-cell *matCellDef="let element"> {{element.categoryName}} </td>
+          </ng-container>
+          <!-- Symbol Column -->
+          <ng-container matColumnDef="year">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Year </th>
+            <td mat-cell *matCellDef="let element"> {{element.year}} </td>
+          </ng-container>
+          <ng-container matColumnDef="monthName">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Month </th>
+            <td mat-cell *matCellDef="let element"> {{element.monthName}} </td>
+          </ng-container>
+          <ng-container matColumnDef="indicator">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header> Indicator </th>
+            <td mat-cell *matCellDef="let element"> {{element.indicator}} </td>
+          </ng-container>
+          <tr mat-header-row *matHeaderRowDef="displayedColumnsPeriodicElement"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumnsPeriodicElement;"></tr>
+        </table>
+        <div [hidden]="!isPaging">
+          <mat-paginator #paginator1 [pageSizeOptions]="[ 10, 25, 100]"></mat-paginator>
+        </div>
+      </div>
+
+      <div [hidden]="!isYesIndexReport">
+
+        <div [hidden]="bShowChart">
+          <table mat-table [dataSource]="dataSourceYesIndex" matSort class="mat-elevation-z8">
+            <!-- Position Column -->
+            <ng-container matColumnDef="countryCode">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Code </th>
+              <td mat-cell *matCellDef="let element"> {{element.countryCode}} </td>
+            </ng-container>
+
+            <ng-container matColumnDef="countryName">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Name </th>
+              <td mat-cell *matCellDef="let element"> {{element.countryName}} </td>
+            </ng-container>
+            <ng-container matColumnDef="year">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Year </th>
+              <td mat-cell *matCellDef="let element"> {{element.year}} </td>
+            </ng-container>
+            <ng-container matColumnDef="monthName">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Month </th>
+              <td mat-cell *matCellDef="let element"> {{element.monthName}} </td>
+            </ng-container>
+            <ng-container matColumnDef="YesIndex">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Yes Index </th>
+              <td mat-cell *matCellDef="let element"> {{element.yesIndex}} </td>
+            </ng-container> -->
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumnsYesIndex"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumnsYesIndex;"></tr>
+          </table>
+          <div [hidden]="!isPaging">
+            <mat-paginator #paginator2 [pageSizeOptions]="[10, 25, 100]"></mat-paginator>
+          </div>
+        </div>
+        <div [hidden]="!bShowChart" style="height: 300px">
+          <canvas id="canvas"></canvas>
+        </div>
+
+      </div>
+      <div *ngIf="isChangeIndexReport">
+        <div [hidden]="bShowChart">
+          <table   mat-table [dataSource]="dataSourceChangeIndex" matSort class="mat-elevation-z8">
+            <!-- Position Column -->
+            <ng-container matColumnDef="countryCode">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Code </th>
+              <td mat-cell *matCellDef="let element"> {{element.countryCode}} </td>
+            </ng-container>
+  
+            <ng-container matColumnDef="countryName">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Country Name </th>
+              <td mat-cell *matCellDef="let element"> {{element.countryName}} </td>
+            </ng-container>
+            <ng-container matColumnDef="year">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Year </th>
+              <td mat-cell *matCellDef="let element"> {{element.year}} </td>
+            </ng-container>
+  
+            <ng-container matColumnDef="changeIndex">
+              <th mat-header-cell *matHeaderCellDef mat-sort-header> Change Index </th>
+              <td mat-cell *matCellDef="let element"> {{element.changeIndex}} </td>
+            </ng-container> -->
+  
+            <tr mat-header-row *matHeaderRowDef="displayedColumnsChangeIndex"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumnsChangeIndex;"></tr>
+          </table>
+          <div [hidden]="!isPaging">
+            <mat-paginator #paginator3 [pageSizeOptions]="[10, 25, 100]"></mat-paginator>
+          </div>
+  
+        </div>
+        
+        <div [hidden]="!bShowChart" style="height: 300px">
+          <canvas id="canvasChangeIndexReport"></canvas>
+        </div>
+
+      </div>
+
+
+
+    </div>
+  </div>
+  <div class="row mt-5 justify-content-center">
+    <div class="action_buttons">
+      <div class="col">
+        <div class="btn app_btn px-3" (click)="DownloadPDF()">Export PDF</div>
+      </div>
+      <div class="col">
+        <div class="btn app_btn px-3" (click)="GenerateExcel()">Export Excel</div>
+      </div>
+      <div class="col">
+        <div class="btn app_btn px-3">Push to eDMS</div>
+      </div>
+    </div>
+
+  </div>
+</div>
