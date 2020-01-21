@@ -1,53 +1,57 @@
 <div class="container reports_container">
+  <form #myForm="ngForm">
   <div class="row filter_panel d-md-flex flex-md-row my-3">
-    <div class="col filter_item">
-      <i class="fa fa-th-large menu-icon" aria-hidden="true"></i>
-      <mat-form-field>
-        <mat-label>Categories</mat-label>
-        <mat-select multiple [(ngModel)]="selectedCategories">
-          <mat-option *ngFor="let category of categoryList" [value]="category.categoryCode">{{category.categoryName}}
-          </mat-option>
-        </mat-select>
-      </mat-form-field>
-    </div>
-
-    <div class="col filter_item">
-      <i class="fa fa-globe menu-icon" aria-hidden="true"></i>
-      <mat-form-field>
-        <mat-label>Country</mat-label>
-        <mat-select multiple [(ngModel)]="selectedCountries">
-          <mat-option *ngFor="let country of countryList" [value]="country.countryCode">{{country.countryName}}
-          </mat-option>
-        </mat-select>
-      </mat-form-field>
-    </div>
-    <div class="col filter_item">
-      <i class="fa fa-calendar-o menu-icon" aria-hidden="true"></i>
-      <mat-form-field>
-        <mat-label>Year</mat-label>
-        <mat-select multiple [(ngModel)]="selectedYears">
-          <mat-option *ngFor="let year of yearList" [value]="year.yearName">{{year.yearName}}</mat-option>
-        </mat-select>
-      </mat-form-field>
-    </div>
+    
     <div class="col filter_item">
       <i class="fa fa-file-text-o menu-icon" aria-hidden="true"></i>
       <mat-form-field>
         <mat-label>Report Type</mat-label>
-        <mat-select [(ngModel)]="reportType">
+        <mat-select name="reportType" required [(ngModel)]="reportType" (ngModelChange)="changeReportType($event)">
           <mat-option value="fullReport">Full Report</mat-option>
           <mat-option value="yesIndexReport">Yes Index Report</mat-option>
           <mat-option value="changeIndexReport">Change Index Report</mat-option>
         </mat-select>
       </mat-form-field>
     </div>
-    <a (click)="getReport()">
+    <div class="col filter_item">
+      <i class="fa fa-globe menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Country</mat-label>
+        <mat-select name="selectedCountries" required multiple [(ngModel)]="selectedCountries">
+          <mat-option *ngFor="let country of countryList" [value]="country.countryCode">{{country.countryName}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
+
+    <div class="col filter_item">
+      <i class="fa fa-calendar-o menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Year</mat-label>
+        <mat-select name="selectedYears" required multiple [(ngModel)]="selectedYears">
+          <mat-option *ngFor="let year of yearList" [value]="year.yearName">{{year.yearName}}</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>    
+    <div class="col filter_item">
+      <i class="fa fa-th-large menu-icon" aria-hidden="true"></i>
+      <mat-form-field>
+        <mat-label>Categories</mat-label>
+        <mat-select name="selectedCategories" required name="selectedCategories1" multiple [(ngModel)]="selectedCategories" >
+          <mat-option *ngFor="let category of categoryList" [value]="category.categoryCode">{{category.categoryName}}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+    </div>
+
+    <a (click)="getReport(myForm)">
       <div class="col filter_item">
         <div class="btn app_btn filter_btn">
           <i class="fa fa-filter"></i>
           <span>Filter</span>
         </div>
-        <mat-slide-toggle (change)="setValue($event)">
+        <mat-slide-toggle [hidden]="bShowToggleChart" (change)="setValue($event)">
           <!-- <i class="material-icons toggle_btn">show_chart</i> -->
           <i class="toggle_btn">show_chart</i>
         </mat-slide-toggle>
@@ -56,7 +60,9 @@
         </div> -->
       </div>
     </a>
+  
   </div>
+  </form>
   <div class="row">
     <div class="col-md-12">
       <div [hidden]="!isFullReport">
@@ -186,9 +192,9 @@
       <div class="col">
         <div class="btn app_btn px-3" (click)="GenerateExcel()">Export Excel</div>
       </div>
-      <div class="col">
+      <!-- <div class="col">
         <div class="btn app_btn px-3">Push to eDMS</div>
-      </div>
+      </div> -->
     </div>
 
   </div>

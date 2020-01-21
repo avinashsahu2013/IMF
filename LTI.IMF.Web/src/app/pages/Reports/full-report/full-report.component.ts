@@ -21,6 +21,7 @@ import * as XLSX from 'xlsx';
 
 import { Chart } from 'chart.js';
 import * as moment from 'moment';
+import { NgForm } from '@angular/forms';
 
 const EXCEL_TYPE = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=UTF-8';
 const EXCEL_EXTENSION = '.xlsx';
@@ -57,7 +58,8 @@ export class FullReportComponent implements OnInit {
     isYesIndexReport: boolean = false;
     isChangeIndexReport: boolean = false;
     isPaging: boolean = false;
-
+    myForm : NgForm;
+    bShowToggleChart: Boolean = true;
 
     ELEMENT_DATA: PeriodicElement[] = [
         { position: 1, name: 'Hydrogen', weight: 1.0079, symbol: 'H' },
@@ -105,9 +107,21 @@ export class FullReportComponent implements OnInit {
 
 
     }
-
-    getReport() {
-
+    changeReportType(event)
+    {  
+      if(event==='fullReport'){
+        this.bShowToggleChart = true;
+      }
+      else{
+        this.bShowToggleChart =false;
+      } 
+    }
+    
+    getReport(f) {
+        if(!f.form.valid){
+            this.toastr.error('Please select required filters');
+            return;
+        }
         let countries = this.selectedCountries.join(",");
         let categories = this.selectedCategories.join(",");
         let years = this.selectedYears.join(",");
@@ -138,8 +152,9 @@ export class FullReportComponent implements OnInit {
         this.dataSourceChangeIndex = new MatTableDataSource([]);
         this.isPaging = true;
 
-
+        this.blockUI.start();
         this.dashboardService.getFullReport(filterCriteria).subscribe((data: FullReport[]) => {
+            this.blockUI.stop();
             if (this.reportType == "fullReport") {
                 this.displayedColumnsPeriodicElement = ['countryCode', 'countryName', 'year', 'monthName', 'categoryName', 'indicator'];
 
